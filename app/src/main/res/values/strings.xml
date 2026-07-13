@@ -2,4 +2,7 @@
     <string name="app_name">Calculator</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="constraint_btn_txt">CONSTRAINTLAYOUT CALCULATOR</string>
+    <string name="linear_btn_txt">LINEARLAYOUT CALCULATOR</string>
+    <string name="frame_btn_txt">FRAMELAYOUT CALCULATOR</string>
 </resources>
